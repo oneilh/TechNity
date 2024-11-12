@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "name": "Steven G. Copeland",
+      "jobTitle": "UI UX Designer",
+      "company": "Apple",
+      "location": "San francisco USA",
+      "avatarUrl": "https://media.istockphoto.com/id/1386479313/photo/happy-millennial-afro-american-business-woman-posing-isolated-on-white.jpg?s=612x612&w=0&k=20&c=8ssXDNTp1XAPan8Bg6mJRwG7EXHshFO5o0v9SIj96nY="
+    },
+    {
+      "id": 1002,
+      "name": "Dianna Preston",
+      "jobTitle": "DevOps Engineer",
+      "company": "Google",
+      "location": "San francisco USA",
+      "avatarUrl": "https://static.vecteezy.com/system/resources/thumbnails/008/931/593/small/confident-cheerful-male-lawyer-reads-business-news-has-gentle-smile-dressed-in-formal-clothes-poses-in-urban-setting-businessman-checks-email-or-updates-profile-on-digital-tablet-computer-photo.JPG"
+    },
+    {
+      "id": 1003,
+      "name": "Benjamin Eddy",
+      "jobTitle": "Front-End Developer",
+      "company": "Netflix",
+      "location": "San francisco USA",
+      "avatarUrl": "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg"
+    },
+    {
+      "id": 1004,
+      "name": "Katelin Pratick",
+      "jobTitle": "Cloud Engineer",
+      "company": "Facebook",
+      "location": "San francisco USA",
+      "avatarUrl": "https://media.istockphoto.com/id/1131863146/photo/young-african-woman-isolated-on-grey-wall-studio-winter-concept-soft-cloth.jpg?s=612x612&w=0&k=20&c=3NvOJx3tfhEuOHW4Zo8yrglnMKOh4llwjLzknyT56t0="
+    }
+  ],
+  "following": [1001, 1003],
+  "posts": [
+    {
+      "title": "Make a pop",
+      "post": "hdbfisefiwefhwiefhusdgdfhefhh"
+    }
+  ]
+}
