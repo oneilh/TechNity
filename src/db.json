@@ -33,7 +33,7 @@
       "avatarUrl": "https://media.istockphoto.com/id/1131863146/photo/young-african-woman-isolated-on-grey-wall-studio-winter-concept-soft-cloth.jpg?s=612x612&w=0&k=20&c=3NvOJx3tfhEuOHW4Zo8yrglnMKOh4llwjLzknyT56t0="
     }
   ],
-  "following": [1001, 1003],
+  "following": [{ "id": 1001 }, { "id": 1003 }],
   "posts": [
     {
       "title": "Make a pop",
