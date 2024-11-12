@@ -18,5 +18,11 @@
 - [Daisy UI](https://daisyui.com/docs/install/)
   UI components
   
-- [Twailwind Css]([https://daisyui.com/docs/install/](https://tailwindcss.com/))
+- [Twailwind Css](https://tailwindcss.com/)
   Css framework
+
+- [Google fonts](https://fonts.google.com/)
+  fonts
+
+- [React Icons](https://react-icons.github.io/react-icons/)
+  icons specifically for react 
