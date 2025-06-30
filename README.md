@@ -1,28 +1,12 @@
-- > UseEffect: a hook used to perform side effects: fetching, subscribing to an event, getting accessing to the Data
--   2 params
-  (callback function, optional dependency array);
-  - callback func must contain any promise
-- dependency array:
+# React + Vite
 
-- default setup -> runs every time
-- [] -> runs only on initial render
-- [args...] -> runs based on the dependency
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Expanding the ESLint configuration
 
-## Tools used and Resources:
-- [Loaders](https://cssloaders.github.io/)
-  for loaders and spinners
-
-- [Daisy UI](https://daisyui.com/docs/install/)
-  UI components
-  
-- [Twailwind Css](https://tailwindcss.com/)
-  Css framework
-
-- [Google fonts](https://fonts.google.com/)
-  fonts
-
-- [React Icons](https://react-icons.github.io/react-icons/)
-  icons specifically for react 
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
